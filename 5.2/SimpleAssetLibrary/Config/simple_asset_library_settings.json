@@ -1,0 +1,15 @@
+{
+  "_comment1": "The asset types to offer in the UI, users cannot declare new types in the UI",
+  "asset_types": [
+    "char",
+    "envir",
+    "FX",
+    "prop"
+  ],
+  "_comment2": "the default categories to offer, users may add additional categories in the UI",
+  "default_category_options": [
+    "default"
+  ],
+  "_comment3": "the folder path to assign placed actors",
+  "placed_actor_folder": "placed"
+}

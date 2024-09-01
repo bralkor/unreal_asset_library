@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Asset Library",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Brian Kortbus",
+	"CreatedByURL": "https://www.linkedin.com/in/bkortbus",
+	"DocsURL": "https://bkortbus.gitbook.io/ue5-simple-asset-library",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EnabledByDefault": true,
+	"Modules": [
+		{
+			"Name": "SimpleAssetLibrary",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		}
+	]
+}
